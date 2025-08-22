@@ -1,0 +1,12 @@
+{
+	"Name": "jim",
+	"Age": 35,
+	"Contact": "1111111111",
+	"Company": "DEF Inc",
+	"Address": {
+		"City": "Chicago",
+		"State": "IL",
+		"Country": "USA",
+		"PinCode": 60601
+	}
+}

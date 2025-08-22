@@ -1,0 +1,12 @@
+{
+	"Name": "jack",
+	"Age": 45,
+	"Contact": "3333333333",
+	"Company": "JKL Inc",
+	"Address": {
+		"City": "Miami",
+		"State": "FL",
+		"Country": "USA",
+		"PinCode": 33101
+	}
+}

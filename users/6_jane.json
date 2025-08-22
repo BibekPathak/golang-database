@@ -1,0 +1,12 @@
+{
+	"Name": "jane",
+	"Age": 50,
+	"Contact": "4444444444",
+	"Company": "MNO Corp",
+	"Address": {
+		"City": "Seattle",
+		"State": "WA",
+		"Country": "USA",
+		"PinCode": 98101
+	}
+}

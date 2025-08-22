@@ -1,0 +1,12 @@
+{
+	"Name": "jim",
+	"Age": 55,
+	"Contact": "5555555555",
+	"Company": "PQR Inc",
+	"Address": {
+		"City": "San Francisco",
+		"State": "CA",
+		"Country": "USA",
+		"PinCode": 94101
+	}
+}

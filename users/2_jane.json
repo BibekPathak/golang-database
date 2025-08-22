@@ -1,0 +1,12 @@
+{
+	"Name": "jane",
+	"Age": 30,
+	"Contact": "0987654321",
+	"Company": "XYZ Corp",
+	"Address": {
+		"City": "Los Angeles",
+		"State": "CA",
+		"Country": "USA",
+		"PinCode": 90001
+	}
+}

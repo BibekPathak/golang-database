@@ -1,0 +1,12 @@
+{
+	"Name": "jill",
+	"Age": 40,
+	"Contact": "2222222222",
+	"Company": "GHI Corp",
+	"Address": {
+		"City": "Houston",
+		"State": "TX",
+		"Country": "USA",
+		"PinCode": 77001
+	}
+}
